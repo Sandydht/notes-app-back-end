@@ -108,3 +108,5 @@ dist
 
 # vscode
 .vscode
+
+notes-api-webserver.*
